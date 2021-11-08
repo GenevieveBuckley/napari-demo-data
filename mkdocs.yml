@@ -1,0 +1,11 @@
+site_name: napari-demo-data
+site_description: Sample data for the napari image viewer.
+site_author: Genevieve Buckley
+
+theme: readthedocs
+
+
+repo_url: https://github.com/GenevieveBuckley/napari-demo-data
+
+pages:
+- Home: index.md
